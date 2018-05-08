@@ -7,8 +7,7 @@ for automated length and CRC calculations.
 
 ### Requirements:
         Python 3.6 or higher
-        (Optional) libnet: a packet assembly library
-        (Optional) libnetc: libnet wrapper so that we can call build_ethernet from python
+        Permission to create a raw socket
 
 ### Installation:
  
