@@ -10,10 +10,9 @@ for automated length and CRC calculations.
         Permission to create a raw socket
 
 ### Installation:
- 
-        Assuming Python is installed, libnet and libnetc
-        are installed, you can run the script from anywhere by
-        typing:
+
+        Assuming Python is installed you can run the script from anywhere
+        the configuration file and bfuzz program is installed.
 
 ### Usage
         python bfuzz.py -f sample.cfg
